@@ -1,0 +1,21 @@
+Tops Carrer Center
+Github Account
+Github Desktop
+Git using Command
+JDK Setup
+Eclipse Setup
+
+1.Download JDK
+2.Install JDK
+3.Select Path -> C:\Program Files\Java\jdk1.8.0_191\bin[copy]
+4.right click on This pc -> Properties->Advanced system settings-> environment variables-> 
+path->edit ->paste your path->click on ok
+5.open your cmd and type javac
+
+----------------------------
+Download eclipse
+install eclipse
+https://www.eclipse.org/downloads/
+
+
+
