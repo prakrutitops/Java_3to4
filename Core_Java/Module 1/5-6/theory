@@ -1,0 +1,25 @@
+data type:
+
+integer ->int -> numeric value
+float->decimal value->23.45
+charcater->char ->alphabets
+double->decimal value->23.645645
+String->"gjkj754498574385@@@"
+boolean->true,false
+long->long value
+
+conditional statement:
+if,else if,else,nested if,switch,case,break
+
+if()
+{
+
+}
+else
+{
+
+}
+
+if->compulsory run
+else if->it will only run if previous condition will not execute
+
