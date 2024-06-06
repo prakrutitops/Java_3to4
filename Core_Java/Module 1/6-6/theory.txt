@@ -1,0 +1,37 @@
+Scanner->get value from user
+
+Scanner ->inbuilt class
+object 
+
+classname objname = new classname();
+Scanner sc = new Scanner();
+
+for
+while
+do while
+
+for(initialization;condition;incre/decre)
+{
+	statement
+}
+
+
+1234
+
++
+-
+*
+/
+%
+
+4/2 = 2
+4%2 = 0
+
+
+c+=a//c=c+a
+c-=b//c=c-b
+
+486
+
+
+
