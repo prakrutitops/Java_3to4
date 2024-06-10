@@ -1,0 +1,34 @@
+OOP:Object Oriented Programming
+
+1)Object:Any Entity which has own state and behaviour 
+ex:pen,paper etc..
+
+2)Class:Collection of objects
+ex:human body
+
+3)Abstraction:Hiding internal details and showing functionalities
+ex:login page
+
+4)Encapsulation:wrapping up of data or binding of data
+ex:capsule
+
+5)Inheritance:When One Object Acquire all the properties and behaviour of parent class
+ex:father -son
+
+6)Polymorphism:Many ways to perform anything
+1)Method Overloading
+2)Method Overriding
+
+Constructor:Method Having a same as a classname
+
+1)Default Constructor
+2)Parameterized Constructor
+3)Copy Constructor
+
+keyword:
+this
+static
+super
+final
+
+
